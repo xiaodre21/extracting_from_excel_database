@@ -31,6 +31,7 @@ pip install -r requirements.txt
 ```
 <br />
 
+
 # Example of usage
 #### Windows
 ```bash
@@ -39,4 +40,14 @@ python extracting_from_excel_database.py --excel_filename db_template.xlsx --out
 #### MAC
 ```bash
 python3 extracting_from_excel_database.py --excel_filename db_template.xlsx --out_dir C:\Users\work_folder --out_filename filtered_db.xlsx --time_filter min
+```
+
+## To display the documentation, please use the code:
+#### Windows
+```bash
+python extracting_from_excel_database.py -h
+```
+#### MAC
+```bash
+python3 extracting_from_excel_database.py -h
 ```
