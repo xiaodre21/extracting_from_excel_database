@@ -6,7 +6,6 @@
 
 This project requires the following Python packages:
 
-- `os` (standard library)
 - `argparse` (standard library)
 - `os` (standard library)
 - `sys` (standard library)
